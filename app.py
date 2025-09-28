@@ -2,7 +2,6 @@ import streamlit as st
 from transformers import pipeline
 import time
 import numpy as np
-import yake # Imported for completeness, though core logic is Zero-Shot Classification
 
 # --- MODEL AND LABEL CONFIGURATION ---
 
