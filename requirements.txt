@@ -1,3 +1,6 @@
 streamlit
 pandas
 transformers
+torch
+torchaudio
+torchvision
