@@ -2,6 +2,7 @@ import streamlit as st
 from transformers import pipeline
 import time
 import numpy as np
+import torch
 
 # --- MODEL AND LABEL CONFIGURATION ---
 
